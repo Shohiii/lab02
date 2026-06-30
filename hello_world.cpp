@@ -1,8 +1,8 @@
 #include <iostream>
 #include <string>
 
-// Программа для демонстрации персонализированного "Hello World"
-// Исправлено: удалено 'using namespace std' для большей ясности кода
+// Program to demonstrate a personalized "Hello World"
+// Fixed: removed 'using namespace std' for better code clarity
 
 int main() {
     std::string name;
@@ -11,6 +11,7 @@ int main() {
     std::cout << "Hello world from " << name << std::endl;
     return 0;
 }
+
 
 
 
