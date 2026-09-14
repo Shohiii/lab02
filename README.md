@@ -4,6 +4,8 @@
 
 репозиторий:https://github.com/Shohiii/lab02
 
+Условие лабораторной работы: https://github.com/tp-labs/lab02
+
 ## Part I
 
 ### 1. Создать пустой репозиторий на сервисе GitHub
